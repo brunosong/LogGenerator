@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: LogGenerator
+
+logging:
+  file:
+    path: /server/log-generator
+    name: server-log
